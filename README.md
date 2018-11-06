@@ -7,4 +7,4 @@ Desktop application used to check names from Office of Foreign Assets Control (O
 # To run
 1. Download the repo as .zip file or clone it by:</br>
     `git clone https://github.com/Dostonbek1/OFAC-Check.git`
-2. Go into the clone folder and run the OFAC_Check.exe. It runs on Windows OS.
+2. Go into the cloned folder and run the OFAC_APP.exe. It runs on Windows OS.
